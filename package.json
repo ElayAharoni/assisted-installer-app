@@ -72,5 +72,8 @@
   },
   "insights": {
     "appname": "assisted-installer-app"
+  },
+  "overrides": {
+    "preact": "10.28.2"
   }
 }
